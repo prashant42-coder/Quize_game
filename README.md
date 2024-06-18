@@ -4,3 +4,4 @@ You can also use a database or a file to store your questions and answers, and u
 
 If you want to create a quiz game in Java programming, you will need to have some basic knowledge of Java syntax, data structures, loops, conditional statements, methods, classes, and objects. You will also need to have a Java development environment, such as Eclipse or IntelliJ IDEA, and a Java compiler, such as JDK or JRE. You can use GitHub to host your project and share it with others.
 
+![Screenshot 2024-06-18 114416](https://github.com/prashant42-coder/Quize_game/assets/122604273/a20085b1-1e76-45f3-963e-bbe3f79dbea6)
